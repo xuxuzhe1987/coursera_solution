@@ -10,6 +10,43 @@
 
 p {
   margin: 15px;
+  display: inline-block;
+}
+
+#title1 {
+    position: relative;
+    top: -3px;
+    right: -3px;
+    float: right;
+    background-color: pink;
+    color: black;
+    text-align: center;
+    width: 100px;
+    border: 3px solid black;
+}
+
+#title2 {
+  position: relative;
+  top: -3px;
+  right: -3px;
+  float: right;
+  background-color: darkred;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border: 3px solid black;
+}
+
+#title3 {
+  position: relative;
+  top: -3px;
+  right: -3px;
+  float: right;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  width: 100px;
+  border: 3px solid black;
 }
 
 /* Simple Responsive Framework. */
